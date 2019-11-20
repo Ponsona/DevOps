@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## A spring boot 2 sample app project ![Twitter Follow](https://img.shields.io/twitter/follow/mromeh.svg?style=social)
 
 ## About
@@ -43,3 +44,6 @@ http://localhost:8080/swagger-ui.html
 This software is licensed under the [BSD License][BSD]. For more information, read the file [LICENSE](LICENSE).
 
 [BSD]: https://opensource.org/licenses/BSD-3-Clause
+=======
+# DevOps
+>>>>>>> 599ee3403a4f0889c0429500cd7d387ca1d2ace1
